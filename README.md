@@ -47,7 +47,6 @@ Here's a selection of tools and technologies I'm proficient with:
   <img src="https://img.shields.io/badge/DVC-4A4A4A?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC"/>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
 </p>
 
 ### Machine Learning & Data Science
