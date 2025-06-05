@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm [Your Name] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+  <h1>Hi there, I'm Sumeet <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
   <p><strong>🚀 MLOps Engineer | Transforming ML Models into Production Powerhouses 🚀</strong></p>
   <p>I specialize in building robust, scalable, and automated Machine Learning systems. My passion lies in bridging the gap between data science and software engineering to deliver impactful AI solutions.</p>
 
@@ -49,17 +49,12 @@ Here's a selection of tools and technologies I'm proficient with:
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus"/>
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana"/>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
 ### Machine Learning & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
@@ -89,20 +84,7 @@ Here's a selection of tools and technologies I'm proficient with:
     <li>📈 **Monitoring:** Integrated Prometheus and Grafana to monitor application performance and system metrics in real-time.</li>
     <li>🛠️ **Key Technologies:** Python, Flask, Docker, Kubernetes (AWS EKS), DVC, MLflow, GitHub Actions, AWS (S3, ECR, EC2, IAM), Prometheus, Grafana.</li>
   </ul>
-  <p><em>(🔗 Link to repository: [Add Link to Your Project Repo Here if Public])</em></p>
-</details>
-
-<br/>
-
-<details>
-  <summary><strong>🌐 MERN Stack Web Application: [Your MERN Project Name]</strong></summary>
-  <br/>
-  <p>A [briefly describe the application, e.g., "dynamic e-commerce platform" or "real-time chat application"] built using the MERN stack, showcasing full-stack development capabilities.</p>
-  <ul>
-    <li>✨ **Core Features:** [e.g., User Authentication (JWT), Interactive UI, CRUD Operations, Real-time Updates with WebSockets].</li>
-    <li>🛠️ **Tech Stack:** MongoDB, Express.js, React, Node.js.</li>
-  </ul>
-  <p><em>(🔗 Link to repository: [Add Link to Your Project Repo Here if Public])</em></p>
+  <p><em>(🔗 Link to repository: https://github.com/theunknown70/MLOps-Project)</em></p>
 </details>
 
 ---
@@ -115,17 +97,6 @@ I'm a firm believer in lifelong learning. Currently, I'm diving deeper into:
 * Building more sophisticated model monitoring systems for drift detection and explainability.
 * Reinforcement Learning applications in real-world scenarios.
 
----
-
-## 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-</p>
 ---
 
 <div align="center">
